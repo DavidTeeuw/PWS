@@ -1,1 +1,2 @@
-# PWS_V1
+# Eerste Versie Profielwerkstuk
+# Siebe den Breejen en David Teeuw
