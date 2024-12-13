@@ -18,6 +18,7 @@ Siebe den Breejen en David Teeuw
     * cd {bestandslocatie van het bestand main.py}
   ![bestandsLocatie](readmeIMG/bestandLocatie)
     * python main.py
+   ![main](readmeIMG/main)
 
 ## **DIT IS ALS JE HET PROGRAMMA WILT STARTEN VOOR EEN TWEEDE KEER**
 1. Open de "Anaconda PowerShell Prompt"
@@ -28,3 +29,4 @@ Siebe den Breejen en David Teeuw
     * cd {bestandslocatie van het bestand main.py}
   ![bestandsLocatie](readmeIMG/bestandLocatie)
     * python main.py
+   ![main](readmeIMG/main)
