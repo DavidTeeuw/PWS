@@ -3,7 +3,7 @@ import numpy as np
 
 class difScore:
     def __init__(self) -> None:
-        self.model = load_model("models/DifscorePredictV1.h5")
+        self.model = load_model("models/DifscorePredictV2.h5")
 
     def difscorePrediction(self, boardVector: list=[]) -> int:
         prediction = self.model.predict([boardVector], verbose=0)
